@@ -12,7 +12,7 @@ package ejemplo;
 public class Persona {
     
     public static void personaHabla(){
-        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundos");
     }
     
 
